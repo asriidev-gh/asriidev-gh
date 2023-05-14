@@ -1,16 +1,21 @@
-### Hi there 👋
+# 👋 Andy Radam - Fullstack React Developer
 
-<!--
-**asriidev-gh/asriidev-gh** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Passionate web developer from the Philippines with experience in building web applications using technologies such as React, NextJS, Express, and MongoDB. Prior to being a frontend  developer, I also worked as a php developer. Always eager to take on new challenges that enable further growth in skills and knowledge.
 
-Here are some ideas to get you started:
+## 👨‍💻 Tech Stacks
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- ReactJS
+- NextJS
+- Express
+- Tailwind CSS
+- MongoDB
+
+## ✉️ Contact
+
+- [Portoflio]([https://asrii.netlify.app/])
+- [Email](mailto:asriidev@gmail.com)
+- [LinkedIn](https://www.linkedin.com/in/loydcose/)
+
+
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=asriidev-gh&show_icons=true&locale=en" alt="loydcose" />
+<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=asriidev-gh&" alt="loydcose" />
