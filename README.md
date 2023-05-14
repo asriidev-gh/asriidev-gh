@@ -6,6 +6,7 @@ Passionate web developer from the Philippines with experience in building web ap
 
 - ReactJS
 - NextJS
+- Typescript
 - Express
 - Tailwind CSS
 - MongoDB
