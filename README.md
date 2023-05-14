@@ -12,7 +12,7 @@ Passionate web developer from the Philippines with experience in building web ap
 
 ## ✉️ Contact
 
-- [Portoflio]([https://asrii.netlify.app/])
+- [Portoflio](https://asrii.netlify.app/)
 - [Email](mailto:asriidev@gmail.com)
 - [LinkedIn](https://www.linkedin.com/in/loydcose/)
 
