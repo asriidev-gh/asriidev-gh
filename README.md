@@ -32,7 +32,6 @@ Passionate web developer from the Philippines with experience in building web ap
 
 - [Portoflio](https://andyr.netlify.app/)
 - [Email](mailto:asriidev@gmail.com)
-- [LinkedIn](https://www.linkedin.com/in/loydcose/)
 
 ## 🤝 Support Me:
 
