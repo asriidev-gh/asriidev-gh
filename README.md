@@ -37,5 +37,3 @@ Passionate web developer from the Philippines with experience in building web ap
 
 <a href="https://www.buymeacoffee.com/asriidev" target="_blank"><img src="https://cdn.buymeacoffee.com/buttons/v2/default-violet.png" alt="Buy Me A Coffee" height="60px" width="200px"></a>
 
-
-<img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=asriidev-gh&" alt="loydcose" />
