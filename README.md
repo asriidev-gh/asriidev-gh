@@ -1,4 +1,4 @@
-# 👋 Andy Radam - Fullstack React Developer
+# 👋 Andy Radam - Fullstack Developer (Typescript/ReactJs/NodeJs/PHP)
 
 Passionate web developer from the Philippines with experience in building web applications using technologies such as React, NextJS, Express, and MongoDB. Prior to being a frontend  developer, I also worked as a php developer. Always eager to take on new challenges that enable further growth in skills and knowledge.
 
