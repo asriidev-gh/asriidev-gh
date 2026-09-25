@@ -29,8 +29,6 @@ Passionate web developer from the Philippines with experience in building web ap
 </p>
 
 ## ✉️ Contact
-
-- [Portoflio](https://andyr.netlify.app/)
 - [Email](mailto:asriidev@gmail.com)
 
 ## 🤝 Support Me:
